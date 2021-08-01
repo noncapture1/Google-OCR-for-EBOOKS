@@ -14,13 +14,19 @@ How to install...
 
 NOTE!:
 ============
-#Must Be *.jpeg format
-
 #Need to Create Credentials.json
+
+#Double-Click on Main.py (or) py Main.py in CMD..
 
 #Login and Auth with Google Account that are connected with Credentials.json ....
 
-#Double-Click on Main.py (or) py Main.py in CMD..
+###This Option only need for first time###
+
+#Copy Imgaes to Images Folder
+
+##Must Be *.jpeg format
+
+#Double-Click on Main.py (or) py Main.py in CMD..AGAIN!!!!
 
 #ENJOY!
 --------
